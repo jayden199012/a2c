@@ -18,22 +18,21 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ## Getting Started
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
 
-Linux: click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
-Mac OSX: click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
-Windows (32-bit): click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
-Windows (64-bit): click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
-(For Windows users) Check out this link [lingl](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64)  if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
+- Linux: click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+- Mac OSX: click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+- Windows (32-bit): click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
+- Windows (64-bit): click here [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
+(For Windows users) Check out this [link](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64)  if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 ### Dependencies
-- List of libraries I have used in this Repo:
-    - Pytorch
-    - collections
-    - numpy
-    - Json
-    - Matplotlib
+- Pytorch
+- collections
+- numpy
+- Json
+- Matplotlib
  
 ## Instructions
 After you have installed the environment and dependencies:
-  1. Use **Navigation.ipynb** to train the agent.
+  1. Use **Continuous_Control.ipynb** to train the agent.
   2. Adjust the hyperparameters in **params.txt**
 
 Cheers!
